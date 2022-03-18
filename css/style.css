@@ -44,8 +44,8 @@ html {
 body.active {
   --text-color: #0f0c27;
   --bg-color: #fff;
-  --card-color: #e1e5eb;
-  --section-color: #e1e5eb;
+  --card-color: #f6f7fb;
+  --section-color: #f6f7fb;
 }
 body {
   background: var(--bg-color);
@@ -71,7 +71,7 @@ header {
 header.shadow {
   box-shadow: 0 0 4px rgb(14 55 54 / 15%);
 }
-.logo {
+.logo{
   font-size: 1.5rem;
   font-weight: 600;
   color: var(--text-color);
